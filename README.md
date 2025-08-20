@@ -51,7 +51,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kugashanth&theme=radical&layout=donut)  
 
-![Top Languages (Bar Chart)](https://github-readme-stats.vercel.app/api/top-langs/?username=Kugashanth&theme=radical&layout=compact)  
+
 
 ---
 
