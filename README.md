@@ -47,7 +47,12 @@
 
 ## 📈 GitHub Stats  
 ![Kai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kugashanth&show_icons=true&theme=radical)  
-![Top Languages (Bar Chart)](https://github-readme-stats.vercel.app/api/top-langs/?username=Kugashanth&theme=radical&layout=compact)
+## 📊 Language Usage  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kugashanth&theme=radical&layout=donut)  
+
+![Top Languages (Bar Chart)](https://github-readme-stats.vercel.app/api/top-langs/?username=Kugashanth&theme=radical&layout=compact)  
+
 ---
 
 
