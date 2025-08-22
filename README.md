@@ -58,7 +58,7 @@
 
 ## 📫 Connect with Me  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kugashanth1212@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Kugashanth Thamotharakumar)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kugashanth-thamotharakumar-41292b37b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 ---
 
 ✨ Thanks for visiting my profile! Let’s connect and build something amazing together 🚀
